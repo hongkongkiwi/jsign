@@ -1,4 +1,4 @@
-TODO
+# TODO
 
 - Verify signed files
 - GUI
